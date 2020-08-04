@@ -1,3 +1,5 @@
+<?php include 'includes/db.php';
+?>
 <?php include 'includes/header.php';
 ?>
 
@@ -34,14 +36,11 @@ by <a href = 'index.php'>Start Bootstrap</a>
 
 <hr>
 
-
-
 </div>
 
 <!-- Blog Sidebar Widgets Column -->
 
 <?php include 'includes/sidebar.php' ?>
-
 
 </div>
 <!-- /.row -->
